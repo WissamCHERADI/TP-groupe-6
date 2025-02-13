@@ -1,5 +1,13 @@
 # CasPratique : *Versioning avec Git et GitHub*
 
+GROUPE 6:
+
+Elève 1 = Wissam
+
+Elève 2 = Iskander
+
+Elève 3 = Oceane
+
 ### Modalités
 
 Durée : 1h30
